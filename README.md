@@ -12,6 +12,7 @@ In Fall 2024 of the MS Data Science program, I took a course called Applied Mach
 •	Led team of five researchers – coordinating work sessions, final paper documentation, and technical project timeline
 
 
+
 The folder structure is as follows:
 
 	1. AML_Final_Project_Report_Final_Draft.pdf
