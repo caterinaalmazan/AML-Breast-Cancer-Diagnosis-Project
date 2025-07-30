@@ -1,6 +1,6 @@
-# Columbia University: Breast Cancer Diagnosis using Machine Learning, Applied Machine Learning
+# Columbia University: Breast Cancer Diagnosis using Machine Learning
 
-In Fall 2024 of the MS Data Science program, I took a course called Applied Machine Learning. Given features derived from images of breast masses, my team and I built and trained machine learning models to accurately diagnose cancers as malignant or benign.
+In Fall 2024 of the MS Data Science program, I took a course called "Applied Machine Learning". Given features derived from images of breast masses, my team and I built and trained machine learning models to accurately diagnose cancers as malignant or benign.
 
 
 •	Built and trained machine learning models to accurately diagnose & predict breast cancer cysts as malignant or benign
