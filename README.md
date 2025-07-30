@@ -3,6 +3,7 @@
 In Fall 2024 of the MS Data Science program, I took a course called Applied Machine Learning. Given features derived from images of breast masses, my team and I built and trained machine learning models to accurately diagnose cancers as malignant or benign.
 
 The folder structure is as follows:
+
 	1. AML_Final_Project_Report_Final_Draft.pdf
 		a. A pdf containing our final report. 
 		b. We structured our report to include:
